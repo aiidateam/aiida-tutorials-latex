@@ -1,24 +1,9 @@
 # AiiDA tutorials
 
-This repository contains a collection of texts used for
-various AiiDA tutorials.
+This repository contains the LaTeX source of the 2018 PRACE MaX tutorial
 
-## Export to markdown
-
-The LaTeX source can be converted to markdown (for use in github pages).
-
-### Prerequisites
-
- * pandoc
- * python3
-
-### Conversion
-
-```
-cd latex
-pip install -r requirements.txt
-make markdown
-```
+This repository is **archived and no longer maintained**. 
+Materials for AiiDA tutorials are now hosted at https://github.com/aiidateam/aiida-tutorials
 
 # Acknowledgements
 
