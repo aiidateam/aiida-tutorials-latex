@@ -1,6 +1,6 @@
 # AiiDA tutorials
 
-This repository contains the LaTeX source of the 2018 PRACE MaX tutorial
+This repository contains the LaTeX source of the [2018 PRACE MaX tutorial](https://events.prace-ri.eu/event/709/)
 
 This repository is **archived and no longer maintained**. 
 Materials for AiiDA tutorials are now hosted at https://github.com/aiidateam/aiida-tutorials
